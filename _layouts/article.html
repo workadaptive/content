@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<article class="article-content">
+    <header class="article-header">
+        <h1>{{ page.title }}</h1>
+        {% if page.date %}
+        <p class="article-meta">
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+        </p>
+        {% endif %}
+    </header>
+
+    <div class="article-body">
+        {{ content }}
+    </div>
+
+    <footer class="article-footer">
+        <div class="cta-section">
+            <h3>Ready to Get Started?</h3>
+            <p>Join the BI to AI Cohort or book a 1-on-1 session.</p>
+            <a href="https://calendly.com/ian-workadaptive/45introdeploy" class="button">Book a Session</a>
+            <a href="mailto:info@workadaptive.com" class="button secondary">Get in Touch</a>
+        </div>
+    </footer>
+</article>
