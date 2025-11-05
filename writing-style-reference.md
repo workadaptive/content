@@ -4,6 +4,30 @@
 
 This document captures stylistic elements from writers whose work resonates with how we want to communicate: practical, human, narrative-driven, and accessible to business experts without dumbing things down.
 
+**Core principle: More Paul Graham, less Tim Ferriss. No excessive hype or breathless excitement.**
+
+---
+
+## Voice Guidelines
+
+### What We Avoid
+
+- ❌ Breathless hype ("This changes EVERYTHING!")
+- ❌ Excessive exclamation points and ALL CAPS
+- ❌ Over-the-top claims ("Revolutionary! Game-changing! Unprecedented!")
+- ❌ Artificial urgency ("Act NOW before it's too late!")
+- ❌ Guru positioning ("I discovered the secret...")
+- ❌ Marketing speak over substance
+
+### What We Aim For
+
+- ✅ Calm observation ("Here's what I'm seeing...")
+- ✅ Substantive claims with evidence
+- ✅ Matter-of-fact tone about interesting developments
+- ✅ Letting the insights speak for themselves
+- ✅ Intellectual curiosity over salesmanship
+- ✅ Paul Graham's essay style: thoughtful, measured, insightful
+
 ---
 
 ## Core Influences
