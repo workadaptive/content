@@ -2,111 +2,100 @@
 layout: article
 title: "Not a Real Developer (And Why That's Been My Advantage)"
 date: 2025-11-02
-description: "15 years of creating value through scrappy hacking instead of formal development. Why November 2025 is the moment when being 'not a real developer' became a competitive advantage."
-excerpt: "I've been 'not a real developer' for 15 years. Built systems generating millions in value. Automated thousands of hours of manual work. All while feeling like I wasn't doing it 'right.' November 2025 is when I realized: scrappy hacking isn't a workaround—it's a legitimate strategy."
+description: "15 years of creating value through scrappy hacking. Why November 2025 is when being 'not a real developer' became a competitive advantage."
+excerpt: "I've been 'not a real developer' for 15 years. Built systems generating millions. Automated thousands of hours. All while feeling like I wasn't doing it 'right.' November 2025 is when I realized: scrappy hacking isn't a workaround—it's a strategy."
 ---
 
-I have a long history of being "not a real developer."
+I've been "not a real developer" for 15 years.
 
-And I've created a ton of value - often more value - in digital systems through scrappy hacking.
+And I've created tons of value through scrappy hacking.
 
-This used to bother me. I'd look at computer science grads with their algorithmic knowledge and design patterns. Real developers who could architect enterprise systems and debate the merits of microservices vs. monoliths.
+This used to bother me. I'd look at CS grads with their design patterns and architectural knowledge. Real developers who could debate microservices vs. monoliths.
 
-I couldn't do that. Still can't, really.
+I couldn't do that. Still can't.
 
-But over 15+ years, I've built systems that generated millions in value. Automated processes that saved thousands of hours. Created dashboards and pipelines and integrations that became mission-critical to businesses.
+But I've built systems that generated millions. Automated processes saving thousands of hours. Created dashboards and integrations that became mission-critical.
 
 Not through "real development." Through scrappy hacking.
 
-And now, in November 2025, with Claude Sonnet 4.5 and GPT-5, scrappy hacking just became a legitimate competitive strategy.
+November 2025, with Claude 4.5 and GPT-5, scrappy hacking became a competitive strategy.
 
-Let me explain why.
+Here's why.
 
 ---
 
-## 1. Sometimes the "Real Developer" Way Is Just Too Heavy
+## 1. The "Real Developer" Way Is Too Heavy
 
-Here's what happens with formal development:
-
-You have an idea. A process that could be automated. A new capability that might unlock revenue.
-
-The "right" way to do this:
-- Write a business case
-- Get budget approval
-- Hire developers or contract a firm
-- Gather formal requirements
-- Design the architecture
+Formal development:
+- Write business case
+- Get budget approval  
+- Hire developers
+- Gather requirements
+- Design architecture
 - Build in sprints
 - Test extensively
 - Deploy with change management
 
-Timeline: 9-18 months  
-Cost: $150K-$500K  
-Risk: By the time it launches, the need has changed
+**Timeline:** 9-18 months  
+**Cost:** $150K-$500K  
+**Risk:** By launch, the need's changed
 
-And if it's a new product or process? You don't even have good data for the business case. You're guessing. Competing against proven incumbent systems for budget. Fighting for resources.
+And if it's experimental? You don't even have data for the business case. You're competing for budget against proven systems.
 
-So what happens? Nothing. The idea dies in planning.
+So what happens? Nothing. The idea dies.
 
-But startups don't work this way. Lean methodology doesn't work this way.
+Startups don't work this way. They experiment. Hack. Build scrappy MVPs. Launch fast, learn, iterate.
 
-They experiment. They hack. They build scrappy MVPs. They launch fast, learn, iterate.
+I've built things in Power BI that "weren't designed for that." Mashed up data sources that shouldn't work together. Created Excel workflows processing millions in transactions.
 
-You know what that is? Scrappy hacking.
+Elegant? No. Would developers cringe? Probably.
 
-I've built things in Power BI that "weren't designed for that." Mashed up data sources that shouldn't technically work together. Created Excel-based workflows that processed millions in transactions.
+Did it work? Create value? Let the business experiment?
 
-Was it elegant? No. Would a real developer cringe? Probably.
+Yes. Yes. Yes.
 
-Did it work? Did it create value? Did it let the business experiment and learn?
-
-Yes. Yes. And yes.
-
-That's been my career. Building scrappy solutions that let businesses move at experiment-speed rather than enterprise-IT-speed.
+That's been my career. Scrappy solutions that move at experiment-speed, not enterprise-IT-speed.
 
 ---
 
-## 2. Architectural Bloat Is Real (We Just Don't Have A Name For It Yet)
+## 2. Architectural Bloat Is Real
 
-Real developers architect for the future.
+Real developers architect for the future:
+- "Build this to scale to 100x"
+- "Make it modular for swapping components"
+- "Abstract it for any future requirement"
 
-"Let's build this to scale to 10x usage."  
-"Let's make this modular so we can swap out components later."  
-"Let's abstract this so it can handle any future requirement."
+Professional. What you're supposed to do.
 
-It's not wrong. It's professional. It's what you're supposed to do.
+But here's what I know from 15 years:
 
-But here's what I know from 15 years of building scrappy systems:
+**80% of what we build is obsolete in 3 years.**
 
-**80% of what we build will be obsolete or rebuilt in less than 3 years.**
+Not because it's bad. Because business processes change. Scale changes. Technology shifts. Priorities pivot.
 
-Not because it's bad. Because business processes change that fast. Or the scale changes. Or the technology landscape shifts. Or the business priority pivots.
+I've watched companies spend 18 months architecting perfect systems that were obsolete at launch.
 
-I've watched companies spend 18 months architecting perfect systems that were obsolete before they launched because the market shifted.
+I've built good-enough solutions in 3 weeks that ran for years.
 
-Meanwhile, I've built hacky solutions in 3 weeks that ran for years. Some for decades.
+The ones that lasted weren't perfect. They lasted because:
+- Solved a real problem
+- Simple enough to maintain
+- Adapted as business changed
+- Created enough value people protected them
 
-The ones that lasted weren't architecturally perfect. They lasted because:
-- They solved a real problem
-- They were simple enough to maintain
-- They adapted as the business changed
-- They created enough value that people protected them
+For true enterprise systems serving thousands with high uptime? You need real architecture.
 
-I'm not saying architecture doesn't matter. For true enterprise systems serving thousands of users with high uptime requirements, you need real developers doing real architecture.
+But for mid-market automation? New processes? Experiments?
 
-But for most mid-market business automation? For new processes? For experimental capabilities?
+**Scrappy beats perfect.**
 
-Scrappy beats perfect. Every time.
+Scrappy ships in weeks and adapts. Perfect ships in quarters and ossifies.
 
-Because scrappy ships in weeks and adapts as it learns. Perfect ships in quarters and ossifies.
+I've seen architectural bloat: building for every possible future requirement until it's so complex nobody understands it. So generalized that simple changes take weeks.
 
-We don't have a term for "architectural bloat." But I've seen it. Building for every possible future requirement. Making it modular and abstract and flexible.
+My hacky solutions? Concrete. Do one thing. Understandable. Change fast.
 
-Until it's so complex that nobody understands it. So generalized that simple changes take weeks. So "perfect" that adapting to actual business needs requires architectural debates.
-
-My hacky solutions? They're concrete. They do one thing. They're understandable. They change fast.
-
-That's not a bug. That's a feature.
+That's a feature, not a bug.
 
 ---
 
@@ -114,7 +103,7 @@ That's not a bug. That's a feature.
 
 Development is logic-based. Pure. Beautiful, if you like that sort of thing.
 
-Data is messy. Like all of us who create it.
+Data's messy. Like all of us who create it.
 
 People who love pure logic often hate messy data. Null values that shouldn't exist. Dates formatted three different ways. Business rules with exceptions to the exceptions.
 
@@ -128,31 +117,27 @@ Where it comes from. Why it's inconsistent. What the business rules actually are
 
 Real developers want to fix the data first. Normalize it. Clean it at the source. Design proper schemas.
 
-I work with what I have. Right now. Imperfect.
+I work with what I've got. Right now. Imperfect.
 
 I build pipelines that handle the mess. That expect inconsistency. That adapt to reality rather than waiting for reality to be fixed.
 
-And here's what's wild about November 2025:
+Here's what's wild about November 2025:
 
 There's a whole new kind of data we can work with. Text. Audio. Video.
 
-Incredibly valuable types of data. And increasingly, data about logic itself.
+I'm starting to pair traditional rows and columns with unstructured text. Requirements documents as data sources. Email threads as business logic. Meeting transcripts as specifications.
 
-I'm starting to pair traditional rows and columns and formulas with unstructured text data. Requirements documents as data sources. Email threads as business logic. Meeting transcripts as specifications.
-
-This would be impossible for a traditional developer mindset. "First, let's structure this data properly."
+This'd be impossible for a traditional developer mindset. "First, let's structure this data properly."
 
 But with AI? The AI reads the messy text. Understands the intent. Generates the structured logic.
 
-My job is to mind the data. Understand the context. Know where the edge cases hide in real-world mess.
+My job's to mind the data. Understand the context. Know where the edge cases hide in real-world mess.
 
 AI handles the clean implementation.
 
-It's scrappy hacking at a whole new level.
-
 ---
 
-## 4. The AI Knows Patterns I Don't (And That's Fine)
+## 4. The AI Knows Patterns I Don't
 
 Here's what changed in September/October 2025:
 
@@ -160,7 +145,7 @@ I don't need to know design patterns anymore. Or architectural best practices. O
 
 The AI knows them. All of them.
 
-My job isn't to architect anymore. It's to:
+My job isn't to architect. It's to:
 - Understand what the business actually needs
 - Know where the complexity hides
 - Spot the edge cases from experience
@@ -180,7 +165,7 @@ It implemented it. Clean code. Good structure. Production-ready.
 
 Two weeks. One person (me, not a real developer). Working solution.
 
-The scrappy part? I didn't architect it properly first. I didn't write formal specs. I didn't design the database schema on paper.
+The scrappy part? I didn't architect it properly first. Didn't write formal specs. Didn't design the database schema on paper.
 
 I just started. Described what I needed. Iterated as I learned. Adapted as the real requirements emerged.
 
@@ -196,7 +181,7 @@ Neither of us could do it alone. Together, we ship.
 
 Here's what I'm learning in late 2025:
 
-The best way to work with AI isn't to give it detailed instructions. It's to give it direction and let it figure out the path.
+The best way to work with AI isn't detailed instructions. It's direction—then let it figure out the path.
 
 Real developers are trained to be precise. Specify everything. Leave nothing to interpretation. That's how you write code.
 
@@ -206,7 +191,7 @@ You point. You describe the outcome. You provide context. Then you let it explor
 
 "I need to integrate these three systems. Here's the business logic. Here are the edge cases I know about. Figure out the best approach."
 
-And it does. It researches the APIs. It considers different architectural approaches. It asks about tradeoffs. Then it implements.
+And it does. It researches the APIs. Considers different architectural approaches. Asks about tradeoffs. Then implements.
 
 This is deeply uncomfortable for real developers. "But what if it makes the wrong choice?"
 
@@ -214,7 +199,7 @@ Then you adjust. Iterate. Learn together.
 
 This is natural for scrappy hackers. We've always worked this way. Try something. See what breaks. Adapt. Ship the next version.
 
-The difference now? The AI is doing the technical implementation. But the mindset is pure scrappy hacking.
+The difference now? The AI's doing the technical implementation. But the mindset's pure scrappy hacking.
 
 Point, don't program. Describe outcomes, not steps. Provide context, not specifications.
 
@@ -222,7 +207,7 @@ Let the AI explore. Let it reason. Let it make choices.
 
 You're the guide. The business expert. The person who knows what "good enough" looks like.
 
-AI is the technical expert. The implementer. The one who knows the patterns.
+AI's the technical expert. The implementer. The one who knows the patterns.
 
 Together, you're scrappy at scale. Experimental, but with production-grade results.
 
@@ -231,8 +216,6 @@ This wouldn't work with old AI. You needed to be precise or you'd get garbage.
 But September 2025 changed that. Now you can be directional. Strategic. Let the AI handle tactical.
 
 That's not programming. That's collaboration. With something that's not human, but thinks.
-
-Welcome to scrappy hacking in the agentic age.
 
 ---
 
@@ -244,7 +227,7 @@ Multiple AI agents working in parallel. Each one tackling a piece of a complex p
 
 This sounds like enterprise architecture. But it's scrappy as hell.
 
-One agent researching the API integration patterns. Another building the data transformation logic. A third handling error conditions and logging. A fourth writing tests.
+One agent researching API integration patterns. Another building data transformation logic. A third handling error conditions and logging. A fourth writing tests.
 
 All simultaneously. All in the same VS Code workspace. All sharing context through files.
 
@@ -253,6 +236,20 @@ I'm cycling between them. Nudging each forward. Checking their reasoning. Adjust
 This is impossible for a single human developer. Too much context to hold. Too many pieces to coordinate.
 
 But it's natural for a scrappy hacker with AI collaborators.
+
+I don't need to understand every piece. I need to understand the business problem. The integration points. The "good enough" threshold.
+
+The agents handle the implementation. Each in their domain. All coordinated through shared context.
+
+This is absurdly powerful. And it feels like scrappy hacking because I'm still iterating. Still adapting. Still learning as I build.
+
+But now I'm orchestrating multiple expert AI collaborators instead of struggling alone.
+
+A real developer would want to plan this properly first. Design the architecture. Allocate responsibilities. Coordinate formally.
+
+I just start. Point each agent at a piece. Let them explore. Adjust as patterns emerge.
+
+Scrappy. But at a scale that wasn't possible six months ago.
 
 I don't need to be in all of them constantly. I check in. I adjust. I make judgment calls about which pieces need more attention.
 
@@ -339,9 +336,7 @@ Now we have AI that handles the technical implementation. That knows the pattern
 
 Combined with our business knowledge and scrappy mindset?
 
-That's a competitive advantage.
-
----
+That's a competitive advantage.---
 
 ## My Advice If You're "Not a Real Developer"
 
@@ -357,21 +352,19 @@ Learn to:
 - Mind the data and the context
 - Ship fast and iterate constantly
 - Embrace good enough over perfect
-- Work with messy reality, not clean theory
 
-The AI will handle:
+The AI handles:
 - Clean code structure
 - Design patterns
 - Best practices
 - Technical implementation
-- Architectural patterns
 
 You focus on:
 - Business value
 - Real-world complexity
 - Judgment calls
 - What's good enough
-- What matters and what doesn't
+- What matters
 
 That combination? That's the new competitive advantage.
 
@@ -380,8 +373,6 @@ Not "real development." Not "AI does everything."
 Scrappy hackers collaborating with agentic AI.
 
 Fast, adaptive, valuable.
-
-That's the future. And we've been training for it our whole careers without knowing it.
 
 ---
 
@@ -393,7 +384,7 @@ Built more value than I can count. Automated thousands of hours of manual work. 
 
 All while feeling like I wasn't doing it "right."
 
-November 2025 is when I realized: I've been doing it exactly right. Just early.
+November 2025's when I realized: I've been doing it exactly right. Just early.
 
 Scrappy hacking isn't a workaround for not being a real developer.
 
