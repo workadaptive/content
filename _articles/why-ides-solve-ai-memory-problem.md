@@ -8,7 +8,7 @@ excerpt: "LLMs excel at knowledge and reasoning but struggle with working memory
 
 There's a fascinating study making rounds in AI research circles right now.
 
-Researchers benchmarked LLMs against the Cattell-Horn-Carroll (CHC) theory of intelligence. You know, the gold standard framework psychologists use for human cognitive assessment.
+Researchers benchmarked LLMs against the Cattell-Horn-Carroll (CHC) theory of intelligence—the gold standard framework psychologists use for human cognitive assessment.
 
 The radar chart tells a striking story:
 
@@ -35,7 +35,7 @@ This is exactly why IDEs change everything - but only now that the models are go
 
 ---
 
-## Why This Perspective Is Different
+## Why This Perspective's Different
 
 Most articles about AI coding assistants fall into two camps.
 
@@ -53,7 +53,7 @@ These articles assume you're already a developer. They measure speed gains in ex
 
 These articles oversimplify. They show toy examples that work in demos but fail on real business problems.
 
-This article is different. 
+This article's different. 
 
 We're exploring the architectural sweet spot that unlocks actual business value. Not "how do we make developers faster?" but "how do business experts build complex, maintainable solutions without becoming developers?"
 
@@ -63,7 +63,7 @@ The difference matters. Here's why.
 
 Developer productivity articles optimize for velocity on problems developers already know how to solve.
 
-But the valuable problems in your business aren't "code faster." They're "automate processes no one has built before because business experts couldn't translate requirements and developers didn't understand the domain."
+But the valuable problems in your business aren't "code faster." They're "automate processes no one's built before because business experts couldn't translate requirements and developers didn't understand the domain."
 
 The bottleneck was never just coding speed. It was the translation gap.
 
@@ -115,7 +115,7 @@ Here's what happens in a typical ChatGPT conversation for a business automation 
 
 **AI:** "Here's the updated version..."
 
-[Regenerates again, but may have lost some earlier refinements]
+[Regenerates again, but may've lost some earlier refinements]
 
 **You:** "Wait, this doesn't include the ZoomInfo enrichment anymore..."
 
@@ -130,7 +130,7 @@ This isn't AI being "forgetful." It's working within its architectural constrain
 
 You become the working memory. 
 
-You have to:
+You've got to:
 - Remember all the requirements
 - Track what's been implemented
 - Notice what gets dropped
@@ -177,7 +177,7 @@ You don't re-explain. The context is there.
 - AI: Modifies just the relevant lines in `scoring_rules.py`
 - Previous work: Untouched and preserved
 
-The file system is the memory. Nothing gets lost because nothing gets regenerated from scratch each time.
+The file system's the memory. Nothing gets lost because nothing gets regenerated from scratch each time.
 
 ### **3. Research and Planning as External Memory**
 
