@@ -27,11 +27,7 @@ You've been told you need to "learn to code" to advance your career.
 
 Python courses. SQL mastery. Maybe even JavaScript for custom visuals.
 
-You've probably tried:
-- Online tutorials that move too fast
-- Bootcamps that assume CS background
-- Courses that teach syntax but not practical application
-- Projects disconnected from your actual work
+You've probably tried online tutorials that move too fast, bootcamps that assume CS background, projects disconnected from your actual work.
 
 And you thought: "Maybe I'm just not technical enough."
 
@@ -42,8 +38,6 @@ And you thought: "Maybe I'm just not technical enough."
 AI in IDEs like VS Code + GitHub Copilot doesn't teach you to code.
 
 **It codes FOR you while you focus on what you already know: business logic and data.**
-
-Here's what it looks like:
 
 **You in Power BI:** "Create a calculated column that categorizes customers based on revenue, recency, and product mix"
 
@@ -59,17 +53,9 @@ AI writes Python. You test. Refine. Deploy.
 
 ### Sarah - BI Analyst, 4 Years Power BI Experience
 
-**What she knew:**
-- Power BI data modeling
-- DAX calculations
-- Business requirements gathering
-- Zero Python, zero coding
+**What she knew:** Power BI data modeling, DAX calculations, business requirements gathering. Zero Python, zero coding.
 
-**What she built in 3 weeks:**
-- Automated data pipeline pulling from 3 sources Power BI couldn't connect to
-- Applied complex business rules (she described them, AI wrote the code)
-- Loaded results to data warehouse for Power BI consumption
-- Scheduled to run nightly
+**What she built in 3 weeks:** Automated data pipeline pulling from 3 sources Power BI couldn't connect to. Applied complex business rules (she described them, AI wrote the code). Loaded results to data warehouse for Power BI consumption. Scheduled to run nightly.
 
 **Her words:** "I thought I'd need to learn Python for 6 months first. Turns out I just needed to describe what I wanted clearly—the same skill I use writing DAX, just in plain English."
 
@@ -77,17 +63,9 @@ AI writes Python. You test. Refine. Deploy.
 
 ### Marcus - Data Analyst, Excel + Power Query Expert
 
-**What he knew:**
-- Advanced Excel and Power Query
-- Business process analysis
-- Data quality rules
-- Zero coding background
+**What he knew:** Advanced Excel and Power Query, business process analysis, data quality rules. Zero coding background.
 
-**What he built in 4 weeks:**
-- Automated month-end reporting across 5 systems
-- Data quality checks and exception handling
-- Executive summary generation
-- Distribution to 15 stakeholders
+**What he built in 4 weeks:** Automated month-end reporting across 5 systems with data quality checks, exception handling, executive summary generation, distribution to 15 stakeholders.
 
 **What used to take:** 3 days of manual work every month
 
@@ -120,22 +98,13 @@ That's it. Those skills transfer directly.
 ## The Typical Path
 
 **Week 1: "This feels weird"**
-- Learning VS Code interface
-- First conversations with AI
-- Building simple data pulls
-- Lots of "wait, did that just work?"
+Learning VS Code interface, first conversations with AI, building simple data pulls, lots of "wait, did that just work?"
 
 **Week 2-3: "I'm actually building things"**
-- More complex automation
-- Handling real business logic
-- Testing and debugging
-- Growing confidence
+More complex automation, handling real business logic, testing and debugging, growing confidence.
 
 **Week 4+: "This is my new superpower"**
-- Building solutions you couldn't before
-- Automating tasks Power BI couldn't handle
-- Solving problems that used to require developers
-- Looking at backlogs with new eyes
+Building solutions you couldn't before, automating tasks Power BI couldn't handle, solving problems that used to require developers.
 
 ## What This Actually Means for Your Career
 
@@ -157,24 +126,14 @@ What makes you valuable isn't going to be coding. It's:
 2. **Data intuition** - Where data lives, how it's structured, what's messy
 3. **Requirements translation** - Turning vague asks into specific logic
 4. **Testing and validation** - Knowing when something's right or broken
-5. **Problem decomposition** - Breaking complex problems into manageable pieces
 
 You already have these. AI needs these from you. That's the partnership.
 
 ## What to Expect
 
-**What works well:**
-- Automating data processes you understand deeply
-- Building integrations Power BI can't handle
-- Creating custom data transformations
-- Generating reports and distributions
-- Handling exceptions and edge cases
+**What works well:** Automating data processes you understand deeply. Building integrations Power BI can't handle. Creating custom data transformations. Generating reports and distributions.
 
-**What's harder:**
-- Completely new domains you don't understand
-- Systems you've never seen before
-- Complex architecture requiring deep CS knowledge
-- Real-time, high-volume production systems (initially)
+**What's harder:** Completely new domains you don't understand. Systems you've never seen before. Real-time, high-volume production systems (initially).
 
 Start with what you know. Build confidence. Expand from there.
 
