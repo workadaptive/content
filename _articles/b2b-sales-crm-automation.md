@@ -149,4 +149,8 @@ Let's take one of your sales ops challenges and build a working solution. Your p
 
 [Book a session](https://calendly.com/ian-workadaptive/45introdeploy) | [610.763.8430](tel:610-763-8430) | [info@workadaptive.com](mailto:info@workadaptive.com)
 
+**Related reading:**
+- [Why IDEs solve AI's memory problem](why-ides-solve-ai-memory-problem.md) - The architecture behind these agents
+- [For data analysts & BI professionals](for-data-analysts-bi-professionals.md) - If you're building automation beyond CRM
+
 *Chester County, Pennsylvania | November 2025*

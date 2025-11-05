@@ -1,8 +1,8 @@
 # Content Status Ledger
 
-*Track all articles through the 3-draft process*
+*Track all articles AND website pages through the 3-draft process*
 
-Last Updated: 2025-11-05 (Session complete - all articles processed)
+Last Updated: 2025-11-05 (Website pages added to ledger)
 
 ---
 
@@ -48,6 +48,23 @@ Last Updated: 2025-11-05 (Session complete - all articles processed)
 | Article | Current Phase | Word Count | Next Steps |
 |---------|--------------|-----------|------------|
 | `four-phase-method-building-with-ai.md` | Draft 1 (incomplete) | 293 | Complete Draft 1 content, then Draft 2+3 |
+
+---
+
+## Website Pages Status
+
+### 🔄 IN PROGRESS (Need Draft 2+3 Processing)
+
+| Page | Current Phase | Word Count | Next Steps |
+|------|--------------|-----------|-----------|
+| `homepage-content.md` | Draft 1 | 1,200 | Apply Draft 2 (cut/tighten) + Draft 3 (humanize, de-hype) |
+| `services-content.md` | Draft 1 | 593 | Apply Draft 2 (cut/tighten) + Draft 3 (humanize, de-hype) |
+
+**Notes on website pages:**
+- Homepage has competitive urgency/FOMO that needs de-hyping (similar to b2b-sales article)
+- Services page likely needs tightening and humanization
+- Apply same PG > early TF principle (mature TF is fine)
+- Target: Clear, calm, substantive value propositions without breathless excitement
 
 ---
 
