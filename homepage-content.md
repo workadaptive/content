@@ -3,78 +3,52 @@
 ## Hero Section
 
 ### Your Business Experts Can Build with AI
-**No Programming Required. Just Describe What You Need.**
+**No coding required. Describe what you need. AI builds it.**
 
-Stop waiting months for IT. 
-
-Your domain experts (sales ops, finance, operations) can build real automation by describing business logic. AI handles everything else.
+October 2025 brought AI reliable enough for business experts to build production systems. Sales ops, finance, operations—people who understand the work can now automate it.
 
 [Book a Strategy Session](https://calendly.com/ian-workadaptive/45introdeploy)
 
 ---
 
-## Why Now?
+## What's Possible Now
 
-October 2025 brought Claude Sonnet 4.5 and GPT-5—finally reliable enough for non-coders to build production systems. ([Read about what changed →](_articles/front-row-seat-to-history.md))
+**Sales Operations:** Lead scoring agent (10+ data sources, custom routing). 3 weeks. 200+ hours/month saved. [Details →](_articles/b2b-sales-crm-automation.md)
 
-Context-aware AI in tools like VS Code understands your data structure, business processes, and workflows. You describe outcomes. AI builds solutions. Deploy in days, not quarters.
+**Finance:** Automated month-end close (5 systems). 3 days → 3 hours. 2 weeks.
 
-The difference from ChatGPT? IDEs provide persistent working memory. Your requirements, configurations, and tests become AI's context. Nothing gets lost. This enables business-scale complexity: multi-file projects, system integrations, maintainable solutions. ([Why IDEs solve AI's memory problem →](_articles/why-ides-solve-ai-memory-problem.md))
+**Operations:** Real-time margin dashboard. Caught problems 3 weeks earlier. $200K saved. 4 weeks.
 
----
+**Revenue Ops:** AI pipeline monitoring. Forecast accuracy: 65%→89%. 3 weeks. [For BI pros →](_articles/for-data-analysts-bi-professionals.md)
 
-## What Business Experts Are Building
-
-**Sales Operations Manager:** Lead enrichment agent pulling from 10+ sources, scoring based on win patterns, routing to right rep. Built in 3 weeks. Saved 200+ hours/month. ([See B2B sales automation details →](_articles/b2b-sales-crm-automation.md))
-
-**Finance Controller:** Automated month-end close across 5 systems. What took 3 days now takes 3 hours. Built in 2 weeks.
-
-**Operations Manager:** Real-time margin dashboard from ERP, CRM, shipping data. Caught problems 3 weeks earlier. Built in 4 weeks. Saved $200K first quarter.
-
-**Revenue Ops Analyst:** Pipeline health monitoring with AI-detected risk patterns. Forecast accuracy: 65%→89%. Built in 3 weeks. ([More for data analysts & BI pros →](_articles/for-data-analysts-bi-professionals.md))
-
-These aren't developers. They're business experts who learned to describe requirements clearly to AI.
+[Why this works now →](_articles/front-row-seat-to-history.md) | [The architecture →](_articles/why-ides-solve-ai-memory-problem.md)
 
 ---
 
-## The Problem We Solve
+## Recent Articles
 
-**You need automation but:**
-• IT backlogs are 3-6 months for "simple" requests
-• External developers don't understand your business
-• Low-code platforms hit limitations fast
-• ChatGPT feels powerful but hits complexity ceiling
-
-**The architecture that solves this:** IDE + AI working memory + your domain expertise = complex, production-ready solutions without the translation gap.
+*(Article cards will display here)*
 
 ---
 
 ## Services
 
-### 🚀 **AI Business Automation Workshops**
-2-4 day intensive. Build real solutions for your actual problems. No coding required.
+**Workshops:** 2-4 day intensive. Build real solutions for your problems.
 
-### 📊 **Sales & CRM AI Automation** 
-Lead enrichment, scoring, pipeline intelligence—built by your sales ops team.
+**Sales & CRM Automation:** Lead enrichment, scoring, pipeline intelligence.
 
-### 🎯 **Executive AI Enablement**
-CEOs/CIOs: Build AI capability in existing teams without massive IT investments.
+**Executive Enablement:** Build AI capability in existing teams.
 
-[Explore Services →](services.html)
+[Full services →](services.html)
 
 ---
 
 ## Get Started
 
-**45-minute strategy session:**
-- What's possible for your specific business
-- Which of your people could build these solutions
-- High-impact use cases and ROI projections
+**45-minute strategy session.** What's possible for your business.
 
-[Schedule Session](https://calendly.com/ian-workadaptive/45introdeploy) | **Call:** [610.763.8430](tel:610-763-8430) | **Email:** [info@workadaptive.com](mailto:info@workadaptive.com)
+[Schedule](https://calendly.com/ian-workadaptive/45introdeploy) | [610.763.8430](tel:610-763-8430) | [info@workadaptive.com](mailto:info@workadaptive.com)
 
 ---
-
-*10+ years in data analytics and B2B sales ops. We speak your language and show you what's possible with AI.*
 
 *Chester County, Pennsylvania*

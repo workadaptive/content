@@ -6,92 +6,36 @@ title: WorkAdaptive | Your Business Experts Can Build with AI
 <section class="hero">
     <div class="container">
         <h1>Your Business Experts Can Build with AI</h1>
-        <p class="tagline">No Programming Required. Just Describe What You Need.</p>
-        <p>Stop waiting months for IT. Your domain experts (sales ops, finance, operations) can build real automation by describing business logic. AI handles everything else.</p>
+        <p class="tagline">No coding required. Describe what you need. AI builds it.</p>
+        <p>October 2025 brought AI reliable enough for business experts to build production systems. Sales ops, finance, operations—people who understand the work can now automate it.</p>
         <a href="https://calendly.com/ian-workadaptive/45introdeploy" class="button large">Book a Strategy Session</a>
-    </div>
-</section>
-
-<section class="why-now">
-    <div class="container">
-        <h2>Why Now?</h2>
-        <p>October 2025 brought Claude Sonnet 4.5 and GPT-5—finally reliable enough for non-coders to build production systems. <a href="{{ '/_articles/front-row-seat-to-history.html' | relative_url }}">Read about what changed →</a></p>
-        
-        <p>Context-aware AI in tools like VS Code understands your data structure, business processes, and workflows. You describe outcomes. AI builds solutions. Deploy in days, not quarters.</p>
-        
-        <p>The difference from ChatGPT? IDEs provide persistent working memory. Your requirements, configurations, and tests become AI's context. Nothing gets lost. This enables business-scale complexity: multi-file projects, system integrations, maintainable solutions. <a href="{{ '/_articles/why-ides-solve-ai-memory-problem.html' | relative_url }}">Why IDEs solve AI's memory problem →</a></p>
     </div>
 </section>
 
 <section class="examples">
     <div class="container">
-        <h2>What Business Experts Are Building</h2>
+        <h2>What's Possible Now</h2>
         
-        <div class="example">
-            <p><strong>Sales Operations Manager:</strong> Lead enrichment agent pulling from 10+ sources, scoring based on win patterns, routing to right rep. Built in 3 weeks. Saved 200+ hours/month. <a href="{{ '/_articles/b2b-sales-crm-automation.html' | relative_url }}">See B2B sales automation details →</a></p>
-        </div>
+        <p><strong>Sales Operations:</strong> Lead scoring agent (10+ data sources, custom routing). 3 weeks. 200+ hours/month saved. <a href="{{ '/_articles/b2b-sales-crm-automation.html' | relative_url }}">Details →</a></p>
         
-        <div class="example">
-            <p><strong>Finance Controller:</strong> Automated month-end close across 5 systems. What took 3 days now takes 3 hours. Built in 2 weeks.</p>
-        </div>
+        <p><strong>Finance:</strong> Automated month-end close (5 systems). 3 days → 3 hours. 2 weeks.</p>
         
-        <div class="example">
-            <p><strong>Operations Manager:</strong> Real-time margin dashboard from ERP, CRM, shipping data. Caught problems 3 weeks earlier. Built in 4 weeks. Saved $200K first quarter.</p>
-        </div>
+        <p><strong>Operations:</strong> Real-time margin dashboard. Caught problems 3 weeks earlier. $200K saved. 4 weeks.</p>
         
-        <div class="example">
-            <p><strong>Revenue Ops Analyst:</strong> Pipeline health monitoring with AI-detected risk patterns. Forecast accuracy: 65%→89%. Built in 3 weeks. <a href="{{ '/_articles/for-data-analysts-bi-professionals.html' | relative_url }}">More for data analysts & BI pros →</a></p>
-        </div>
+        <p><strong>Revenue Ops:</strong> AI pipeline monitoring. Forecast accuracy: 65%→89%. 3 weeks. <a href="{{ '/_articles/for-data-analysts-bi-professionals.html' | relative_url }}">For BI pros →</a></p>
         
-        <p><em>These aren't developers. They're business experts who learned to describe requirements clearly to AI.</em></p>
-    </div>
-</section>
-
-<section class="problem">
-    <div class="container">
-        <h2>The Problem We Solve</h2>
-        <p><strong>You need automation but:</strong></p>
-        <ul>
-            <li>IT backlogs are 3-6 months for "simple" requests</li>
-            <li>External developers don't understand your business</li>
-            <li>Low-code platforms hit limitations fast</li>
-            <li>ChatGPT feels powerful but hits complexity ceiling</li>
-        </ul>
-        <p><strong>The architecture that solves this:</strong> IDE + AI working memory + your domain expertise = complex, production-ready solutions without the translation gap.</p>
-    </div>
-</section>
-
-<section class="services">
-    <div class="container">
-        <h2>Services</h2>
-        
-        <div class="service">
-            <h3>🚀 AI Business Automation Workshops</h3>
-            <p>2-4 day intensive. Build real solutions for your actual problems. No coding required.</p>
-        </div>
-        
-        <div class="service">
-            <h3>📊 Sales & CRM AI Automation</h3>
-            <p>Lead enrichment, scoring, pipeline intelligence—built by your sales ops team.</p>
-        </div>
-        
-        <div class="service">
-            <h3>🎯 Executive AI Enablement</h3>
-            <p>CEOs/CIOs: Build AI capability in existing teams without massive IT investments.</p>
-        </div>
-        
-        <a href="{{ '/services.html' | relative_url }}" class="button">Explore Services →</a>
+        <p><a href="{{ '/_articles/front-row-seat-to-history.html' | relative_url }}">Why this works now →</a> | <a href="{{ '/_articles/why-ides-solve-ai-memory-problem.html' | relative_url }}">The architecture →</a></p>
     </div>
 </section>
 
 <section class="recent-articles">
     <div class="container">
-        <h2>Latest Articles</h2>
+        <h2>Recent Articles</h2>
         <div class="articles-grid">
-            {% for article in site.articles limit:3 %}
+            {% for article in site.articles limit:6 %}
             <article class="article-card">
                 <h3><a href="{{ article.url | relative_url }}">{{ article.title }}</a></h3>
-                <p>{{ article.excerpt | strip_html | truncatewords: 30 }}</p>
+                <p>{{ article.excerpt | strip_html | truncatewords: 20 }}</p>
                 <a href="{{ article.url | relative_url }}">Read more →</a>
             </article>
             {% endfor %}
@@ -100,18 +44,22 @@ title: WorkAdaptive | Your Business Experts Can Build with AI
     </div>
 </section>
 
+<section class="services-brief">
+    <div class="container">
+        <h2>Services</h2>
+        <p><strong>Workshops:</strong> 2-4 day intensive. Build real solutions for your problems.</p>
+        <p><strong>Sales & CRM Automation:</strong> Lead enrichment, scoring, pipeline intelligence.</p>
+        <p><strong>Executive Enablement:</strong> Build AI capability in existing teams.</p>
+        <a href="{{ '/services.html' | relative_url }}" class="button">Full services →</a>
+    </div>
+</section>
+
 <section class="cta-final">
     <div class="container">
         <h2>Get Started</h2>
-        <p><strong>45-minute strategy session:</strong></p>
-        <ul>
-            <li>What's possible for your specific business</li>
-            <li>Which of your people could build these solutions</li>
-            <li>High-impact use cases and ROI projections</li>
-        </ul>
-        <a href="https://calendly.com/ian-workadaptive/45introdeploy" class="button large">Schedule Session</a>
-        <p class="contact"><strong>Call:</strong> <a href="tel:610-763-8430">610.763.8430</a> | <strong>Email:</strong> <a href="mailto:info@workadaptive.com">info@workadaptive.com</a></p>
-        <p><em>10+ years in data analytics and B2B sales ops. We speak your language and show you what's possible with AI.</em></p>
+        <p>45-minute strategy session. What's possible for your business.</p>
+        <a href="https://calendly.com/ian-workadaptive/45introdeploy" class="button large">Schedule</a>
+        <p class="contact"><a href="tel:610-763-8430">610.763.8430</a> | <a href="mailto:info@workadaptive.com">info@workadaptive.com</a></p>
         <p><em>Chester County, Pennsylvania</em></p>
     </div>
 </section>
