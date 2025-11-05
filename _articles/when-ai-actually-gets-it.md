@@ -10,15 +10,15 @@ Something just happened that I need to document while it's fresh.
 
 I asked Claude (via VS Code) to extend some bullet points I'd written. Three points about being a "scrappy hacker" rather than a "real developer."
 
-I asked for two more points that felt adjacent to my thinking. Forward-looking. Agentic AI + human collaboration focused. Still scrappy.
+I asked for two more points. Forward-looking. Agentic AI + human collaboration. Still scrappy.
 
-Claude delivered points 4-6 that were so aligned with my thought patterns that I had to stop and ask: "Show me your chain of reasoning for how you came up with these."
+Claude delivered points 4-6 that were so aligned with my thinking I had to stop and ask: "Show me your chain of reasoning."
 
-What came back was possibly the most accurate extension of my thinking I've ever seen from an LLM.
+What came back? Possibly the most accurate extension of my thinking I've ever seen from an LLM.
 
-And it raises something important about how AI + IDE collaboration actually works when it's working well.
+And it shows something important about how AI + IDE collaboration actually works when it's working well.
 
-Let me show you what happened. Then let's talk about why it matters.
+Let me show you what happened. Then why it matters.
 
 ---
 
@@ -54,7 +54,7 @@ The insight: Don't give detailed instructions. Give direction and context. Let A
 
 The insight: Multiple AI agents in parallel IDE windows. I'm the conductor, cycling between them. Each maintains its own context. Loose coordination, fast iteration. Scrappy methodology applied to managing multiple AI collaborators.
 
-I read these and thought: "This is exactly where I was going with this. How did it get there?"
+I read these and thought: "This is exactly where I was going. How'd it get there?"
 
 So I asked.
 
