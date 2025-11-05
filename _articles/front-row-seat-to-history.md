@@ -26,7 +26,7 @@ Like asking a brilliant PhD to write code for you. The code was sophisticated, e
 
 That was a recipe for pain.
 
-I'd spend hours fixing what should have been improvements. Debugging why something that worked perfectly suddenly broke after "optimization." Explaining the same requirement three different ways because the AI kept getting the intent wrong.
+I'd spend hours fixing what should've been improvements. Debugging why something that worked perfectly suddenly broke after "optimization." Explaining the same requirement three different ways because the AI kept getting the intent wrong.
 
 Still, I persisted. I could see the potential. The architecture was sound - IDE providing working memory, AI providing implementation, human providing business knowledge. It just needed the AI to be... better.
 
