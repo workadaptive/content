@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Why IDEs Solve AI's Working Memory Problem (And Unlock Real Business Value)"
+title: "Why IDEs Solve AI's Working Memory Problem (And Enable Real Business Value)"
 date: 2025-11-03
 description: "A deep dive into the cognitive architecture that makes IDE + LLM better than LLM alone—and why business experts can now build complex solutions without becoming developers."
 excerpt: "LLMs excel at knowledge and reasoning but struggle with working memory. IDEs provide the persistent context that changes everything. This isn't about making developers faster—it's about enabling business experts to build production-grade automation."
@@ -55,7 +55,7 @@ These articles oversimplify. They show toy examples that work in demos but fail 
 
 This article's different. 
 
-We're exploring the architectural sweet spot that unlocks actual business value. Not "how do we make developers faster?" but "how do business experts build complex, maintainable solutions without becoming developers?"
+We're exploring the architectural sweet spot that enables actual business value. Not "how do we make developers faster?" but "how do business experts build complex, maintainable solutions without becoming developers?"
 
 The difference matters. Here's why.
 

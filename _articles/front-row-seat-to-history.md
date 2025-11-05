@@ -14,23 +14,15 @@ I've been working with AI and IDEs since mid-2024. Through June, July, August 20
 
 The models were brilliant but frustrating. Like working with a PhD who constantly misunderstood what you actually wanted. String escaping errors. Off-by-one bugs. Refactoring that broke things.
 
-Early September, something shifted. Claude Sonnet 4.5 and GPT-5 dropped.
+Early September, Claude Sonnet 4.5 and GPT-5 were released.
 
 I was working on a lead scoring system. Asked Claude to refactor the scoring logic. Make it more maintainable. Add edge cases we'd discussed.
 
-It just worked. First try.
+The code ran without errors on first execution. Edge cases handled correctly. This was unusual—earlier versions typically needed 2-3 debugging passes.
 
-Not "mostly worked with a few bugs." Worked.
+Next test: complex workflow. Salesforce data pull, enrichment from three APIs, business rules with exceptions, scoring, updates back with audit logs. Previously this took 3-4 iterations to get working.
 
-I thought it was a fluke.
-
-So I tried something harder. Complex workflow - Salesforce data pull, enrichment from three APIs, business rules with exceptions, scoring, updates back with audit logs.
-
-The kind of thing that usually took 3-4 iterations.
-
-I described it once. Claude generated it. It worked.
-
-Edge cases worked. Error handling worked. Audit logging worked.
+Generated code executed successfully. Error handling functioned as specified. Audit logging captured what we needed.
 
 ## What Actually Changed
 
@@ -38,20 +30,20 @@ Two things compounded:
 
 **Intent understanding**
 
-Earlier models were brilliant but literal. You'd say "score leads based on company size and engagement" and they'd implement exactly that - even if company size was missing for 30% of leads.
+Earlier models were brilliant but literal. You'd say "score leads based on company size and engagement" and they'd implement exactly that—even if company size was missing for 30% of leads.
 
-September 2025 models understand what you mean. They ask:
+September 2025 models infer context better. They surface questions:
 - "What should we do when company size's missing?"
 - "I see engagement could mean email opens, website visits, or content downloads. Which matters more?"
 - "Should we handle the case where a lead has high engagement but we can't verify the company?"
 
-They understand real-world data's messy and requirements have unstated assumptions.
+They account for messy real-world data and unstated assumptions in requirements.
 
 **Chain of thought reasoning**
 
-The models started thinking through problems first. Creating plans. Architectural reasoning before implementation.
+The models started showing their reasoning process. Creating plans. Architectural thinking before implementation.
 
-Not just "here's the code." But "here's how I'm thinking about this problem... here's the approach... here are the tradeoffs... now here's the implementation."
+Not just "here's the code." More like "here's the problem structure... here's the approach... here are the tradeoffs... now here's the implementation."
 
 The IDEs evolved to support this. Extended thinking time. Memory that persisted across planning and building phases.
 
@@ -71,25 +63,25 @@ This wasn't possible before. The AI wasn't reliable enough.
 
 ## Testing With Non-Developers
 
-October: workshops with finance controllers, operations managers, BI analysts. People who'd never written code.
+October workshops with finance controllers, operations managers, BI analysts. People who'd never written code.
 
-We built real solutions in days.
+We built functional solutions in days.
 
-Finance controller automated her month-end close process. Data from five systems, reconciliation rules, exception handling, audit trails. Three days. Working system.
+Finance controller automated her month-end close process. Data from five systems, reconciliation rules, exception handling, audit trails. Three days to working system.
 
-Operations manager built a real-time margin dashboard. ERP, CRM, and shipping data. Alerts when margins dropped. Four days. In production.
+Operations manager built a real-time margin dashboard. ERP, CRM, and shipping data. Alerts when margins dropped. Four days to production deployment.
 
 BI analyst built data pipelines replacing brittle ETL processes. Better error handling, logging, more maintainable. Five days.
 
-Production systems handling real business processes.
+These systems handle actual business processes in production.
 
-The business experts were driving. I'd help with architecture and guide the workflow. But they were describing requirements. Making decisions. Validating results.
+The business experts drove the work. I'd help with architecture and guide the workflow. But they described requirements, made decisions, validated results.
 
 They didn't learn to code. They learned to collaborate with AI in an IDE.
 
 ## What This Actually Means
 
-Business experts can now build production systems by describing requirements. The AI understands intent, generates clean code, handles edge cases.
+Business experts can now build production systems by describing requirements. The AI interprets intent better, generates cleaner code, handles edge cases more consistently.
 
 This isn't:
 - "Citizen developers" using limited platforms
@@ -99,17 +91,17 @@ This isn't:
 It's:
 - Business domain experts
 - Building complex, maintainable, production systems
-- Using professional tools (VS Code, real code)
+- Using professional tools (VS Code, actual code)
 - At business speed (weeks, not quarters)
 - Without learning to code (AI handles syntax, they handle logic)
 
-This category didn't exist in August 2025.
+This pattern wasn't viable in August 2025.
 
 ## The Timing Window
 
-November 2025. Two months after the breakthrough.
+November 2025. Two months after the model releases.
 
-I'm working with maybe a dozen companies who are piloting. Building capability. Deploying solutions.
+I'm working with maybe a dozen companies piloting this approach. Building capability. Deploying solutions.
 
 Hundreds are "evaluating AI" or "planning pilots." Planning to act in Q1 or Q2 2026.
 
@@ -119,19 +111,19 @@ Company B (still planning): IT assessing vendors. Debating build vs. buy. Timeli
 
 Three months from now, Company A will have 4-5 solutions deployed. Company B will still be planning.
 
-The companies acting now are building capabilities while competitors plan.
+Companies acting now are building capabilities while competitors plan.
 
 ## Why I'm Writing This
 
-I'm watching something important happen and most people are missing it.
+I'm watching something shift and most people haven't noticed yet.
 
 Not hype. Observation.
 
-I'm in workshops with finance controllers who've never coded, watching them build production systems in days. It works. Reliably.
+I'm in workshops with finance controllers who've never coded, watching them build production systems in days. The pattern's repeating. It works reliably.
 
 Most companies won't act until it's "proven." By then, competitors have head starts.
 
-September 2025 was the threshold crossing. November 2025 is when some companies are acting on it.
+September 2025 was when the models got reliable enough. November 2025 is when some companies are acting on it.
 
 ---
 

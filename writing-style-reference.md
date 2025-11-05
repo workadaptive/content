@@ -4,7 +4,7 @@
 
 This document captures stylistic elements from writers whose work resonates with how we want to communicate: practical, human, narrative-driven, and accessible to business experts without dumbing things down.
 
-**Core principle: More Paul Graham, less Tim Ferriss. No excessive hype or breathless excitement.**
+**Core principle: More Paul Graham, less early Tim Ferriss (4-Hour Workweek). Aim for mature Tim Ferriss (recent essays/interviews) - thoughtful experimentation without breathless hype.**
 
 ---
 
@@ -18,6 +18,7 @@ This document captures stylistic elements from writers whose work resonates with
 - ❌ Artificial urgency ("Act NOW before it's too late!")
 - ❌ Guru positioning ("I discovered the secret...")
 - ❌ Marketing speak over substance
+- ❌ Early Tim Ferriss: "lifestyle design" breathlessness, FOMO-driven urgency
 
 ### What We Aim For
 
@@ -27,35 +28,41 @@ This document captures stylistic elements from writers whose work resonates with
 - ✅ Letting the insights speak for themselves
 - ✅ Intellectual curiosity over salesmanship
 - ✅ Paul Graham's essay style: thoughtful, measured, insightful
+- ✅ Mature Tim Ferriss: systematic experimentation, pattern recognition, thoughtful reflection
 
 ---
 
 ## Core Influences
 
-### Tim Ferriss
+### Tim Ferriss (Mature Style)
 
-**What makes his style work:**
+**What makes his mature style work:**
 
-- **Deconstructionist approach** - Takes complex topics and breaks them into testable components
+- **Systematic experimentation** - "I tried this, here's what happened" without overselling
 - **Pattern extraction** - "What do the best performers have in common?" mindset
 - **Actionable specificity** - Not "work smarter," but "try this specific thing for 2 weeks"
 - **Conversational authority** - Expert without being distant; accessible without being casual
 - **Meta-awareness** - Comfortable saying "here's what I tried, here's what worked, here's what didn't"
-- **Practical skepticism** - Questions conventional wisdom but with experiments, not just opinions
+- **Thoughtful skepticism** - Questions conventional wisdom through observation, not just opinions
+- **Long-term thinking** - Less "4-hour workweek shortcuts," more "sustainable approaches that compound"
 
 **Techniques to borrow:**
 
-- Lead with the uncommon result ("most people do X, but what if Y?")
+- Lead with the uncommon observation ("most people assume X, but the pattern shows Y")
 - Provide specific timeframes and constraints (not "eventually," but "within 3 weeks")
 - Share both successes and failures transparently
 - Use bullet points and formatting to aid scannability
-- End sections with "try this" rather than "think about this"
+- End sections with "consider trying this" rather than "DO THIS NOW!"
+- Frame findings as experiments worth considering, not universal truths
 
 **Voice characteristics:**
 - Second person ("you") for engagement
 - Short sentences for emphasis
-- Questions that challenge assumptions
-- Results-oriented language
+- Questions that invite reflection, not manipulation
+- Results-oriented language without hype
+- Measured enthusiasm about interesting patterns
+
+**Evolution note:** Early Ferriss (4HWW era) was breathless and urgent. Mature Ferriss (Tools of Titans, recent essays) is more observational, less prescriptive, more intellectually curious. We borrow from mature Ferriss.
 
 ---
 
