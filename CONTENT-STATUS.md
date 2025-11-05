@@ -36,12 +36,12 @@ Last Updated: 2025-11-05 (Website pages added to ledger)
 | Article | Word Count | Status | Notes |
 |---------|-----------|--------|-------|
 | `for-powerbi-professionals.md` | ~5,600 | ✅ Complete | Already humanized before ledger |
-| `not-a-real-developer.md` | 2,500 | ✅ Complete | Cut 3,600→2,500 (30%), full humanization |
+| `not-a-real-developer.md` | 2,500 | ✅ Complete | Cut 3,600→2,500 (30%), full humanization. Cross-refs: 2 links |
 | `when-ai-actually-gets-it.md` | 2,158 | ✅ Complete | Humanized, good length |
-| `front-row-seat-to-history.md` | 891 | ✅ Complete | Ruthlessly cut 3,096→891 (71%), removed hype |
-| `why-ides-solve-ai-memory-problem.md` | 2,125 | ✅ Complete | Cut 3,023→2,125 (30%), humanized, deployed |
-| `for-data-analysts-bi-professionals.md` | 1,003 | ✅ Complete | Cut 1,088→1,003 (8%), humanized, deployed |
-| `b2b-sales-crm-automation.md` | 866 | ✅ Complete | Cut 967→866 (10%), tightened, deployed |
+| `front-row-seat-to-history.md` | 893 | ✅ Complete | Ruthlessly cut 3,096→893 (71%), removed hype. Cross-refs: 3 links |
+| `why-ides-solve-ai-memory-problem.md` | 2,123 | ✅ Complete | Cut 3,023→2,123 (30%), humanized, deployed. Cross-refs: 3 links |
+| `for-data-analysts-bi-professionals.md` | 1,003 | ✅ Complete | Cut 1,088→1,003 (8%), humanized, deployed. Cross-refs: 2 links |
+| `b2b-sales-crm-automation.md` | 856 | ✅ Complete | Cut 967→856 (10%), tightened, deployed. Cross-refs: 2 links |
 
 ### ⏳ PENDING (Need Processing)
 
@@ -53,18 +53,17 @@ Last Updated: 2025-11-05 (Website pages added to ledger)
 
 ## Website Pages Status
 
-### 🔄 IN PROGRESS (Need Draft 2+3 Processing)
+### ✅ COMPLETE (All Drafts)
 
-| Page | Current Phase | Word Count | Next Steps |
-|------|--------------|-----------|-----------|
-| `homepage-content.md` | Draft 1 | 1,200 | Apply Draft 2 (cut/tighten) + Draft 3 (humanize, de-hype) |
-| `services-content.md` | Draft 1 | 593 | Apply Draft 2 (cut/tighten) + Draft 3 (humanize, de-hype) |
+| Page | Word Count | Status | Notes |
+|------|-----------|--------|-------|
+| `homepage-content.md` | 417 | ✅ Complete | Ruthlessly cut 1,200→417 (62% reduction), de-hyped, under 500-word requirement. Cross-refs: 4 inline links |
+| `services-content.md` | 586 | ✅ Complete | De-hyped, humanized. Cross-refs: 3 links to supporting articles |
 
-**Notes on website pages:**
-- Homepage has competitive urgency/FOMO that needs de-hyping (similar to b2b-sales article)
-- Services page likely needs tightening and humanization
-- Apply same PG > early TF principle (mature TF is fine)
-- Target: Clear, calm, substantive value propositions without breathless excitement
+**Cross-reference structure:**
+- Homepage → foundational articles (front-row-seat, why-ides) + practical examples (b2b-sales, for-data-analysts)
+- Services → supporting articles for each service offering (b2b-sales, for-data-analysts, why-ides, front-row-seat)
+- Articles → bidirectional links creating content paths between technical foundation, practical application, and role-specific content
 
 ---
 
@@ -115,6 +114,10 @@ Last Updated: 2025-11-05 (Website pages added to ledger)
 ## Commit History Reference
 
 **Session commits (2025-11-05):**
+- `b560926` - Add strategic cross-references and internal links across all content (19 links creating content ecosystem)
+- `88129bb` - Ruthlessly cut homepage to 417 words (62% reduction from 1,200), de-hype services page
+- `fb7a66c` - De-hype three articles: front-row-seat, b2b-sales, why-ides (removed breathless excitement)
+- `c9cdb3f` - Update writing style guide: distinguish early TF (breathless) vs mature TF (thoughtful)
 - `b033c74` - Complete Draft 2+3 for b2b-sales-crm-automation (967→866 words)
 - `104b28b` - Complete Draft 2+3 for for-data-analysts-bi-professionals (1,088→1,003 words)
 - `c2c626d` - Complete Draft 2+3 for why-ides-solve-ai-memory-problem (3,023→2,125 words, 30% cut)
