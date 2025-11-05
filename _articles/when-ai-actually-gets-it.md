@@ -28,9 +28,9 @@ I was writing an article called "Not a Real Developer (And Why That's Been My Ad
 
 I had three points drafted:
 
-1. **Sometimes the "Real Developer" Way Is Just Too Heavy** - Formal processes kill experimentation, scrappy + lean startup methodology wins
-2. **Architectural Bloat Is Real** - 80% obsolete in 3 years, building for adaptability beats building for the future
-3. **Mind the Data and the Context** - Data is messy, lean into it, text/audio/video as new data types
+1. **Sometimes the "Real Developer" Way's Just Too Heavy** - Formal processes kill experimentation, scrappy + lean startup methodology wins
+2. **Architectural Bloat's Real** - 80% obsolete in 3 years, building for adaptability beats building for the future
+3. **Mind the Data and the Context** - Data's messy, lean into it, text/audio/video as new data types
 
 Then I wrote this prompt:
 
@@ -44,7 +44,7 @@ And I waited to see what I'd get.
 
 **Point 4: The AI Knows Patterns I Don't (And That's Fine)**
 
-The insight: Division of labor. AI provides patterns, structure, best practices. I provide judgment, business context, "yeah but in reality..." knowledge. Still scrappy iteration, but with professional-grade implementation.
+The insight: Division of labor. AI provides patterns, structure, best practices. I provide judgment, business context, "yeah, but in reality..." knowledge. Still scrappy iteration, but with professional-grade implementation.
 
 **Point 5: Agentic AI Wants To Be Pointed, Not Programmed**
 
@@ -71,7 +71,7 @@ I asked Claude to show me its reasoning process. Here's what it said (verbatim):
 **Your 3 points established:**
 1. Formal development too heavy for experimentation (scrappy + lean startup validation)
 2. Most things obsolete in 3 years, architectural bloat vs. scrappy adaptability
-3. Data is messy, lean into it, new types of data (text/audio/video)
+3. Data's messy, lean into it, new types of data (text/audio/video)
 
 **Your prompt asked for:** "2 more points... a bit more forward looking and Agentic AI + Human Collaboration centric that still feels like scrappy hacking theme"
 
@@ -91,15 +91,15 @@ I asked Claude to show me its reasoning process. Here's what it said (verbatim):
 
 2. **What's scrappy about this?** Traditional scrappy = "I don't know the right way, so I hack something together." New scrappy = "I don't need to know the right way, AI knows patterns."
 
-3. **What's the forward-looking element?** Shifting from "I'm limited by not knowing design patterns" to "That limitation is now irrelevant." It's liberating, not limiting.
+3. **What's the forward-looking element?** Shifting from "I'm limited by not knowing design patterns" to "That limitation's now irrelevant." It's liberating, not limiting.
 
 4. **How does this fit your voice?** You've talked about building hacky solutions that worked despite not being "architecturally perfect." Now those hacky ideas get professional implementation.
 
 5. **The key insight:** Division of labor between human and AI:
    - AI provides: patterns, structure, best practices, clean code
-   - Human provides: judgment, business context, "yeah but in reality..." knowledge
+   - Human provides: judgment, business context, "yeah, but in reality..." knowledge
 
-6. **Why this is still scrappy:** You're not planning everything upfront. You're describing, iterating, adapting. Same experimental mindset, but AI handles technical execution.
+6. **Why this's still scrappy:** You're not planning everything upfront. You're describing, iterating, adapting. Same experimental mindset, but AI handles technical execution.
 
 ---
 
@@ -127,7 +127,7 @@ I asked Claude to show me its reasoning process. Here's what it said (verbatim):
 
 1. **What's the most forward-looking element?** You mentioned running 3 IDE windows simultaneously, cycling between them. That's VERY forward-looking. Most people aren't doing this yet.
 
-2. **How is this scrappy at scale?** This sounds like enterprise coordination, but it's actually:
+2. **How's this scrappy at scale?** This sounds like enterprise coordination, but it's actually:
    - Loose coupling (agents work semi-independently)
    - Fast iteration (check in periodically, not constant oversight)
    - Adaptive (adjust based on what you see, not rigid plan)
@@ -234,7 +234,7 @@ I'm writing an article about AI extending my thinking.
 
 Using AI to write it.
 
-And the AI is reasoning about its own reasoning process.
+And the AI's reasoning about its own reasoning process.
 
 And I'm validating that the reasoning matches how I actually think.
 
@@ -277,7 +277,7 @@ If you want to experience this:
 
 **1. Build context in your IDE workspace**
 
-Write documents. Establish your voice. Document your thinking patterns. Create sufficient context for AI to reason about. It doesn't take a ton, I started this particular project this morning, and co-wrote 5 articles quickly.
+Write documents. Establish your voice. Document your thinking patterns. Create sufficient context for AI to reason about. It doesn't take a ton - I started this particular project this morning, and co-wrote 5 articles quickly.
 
 **2. Give directional prompts, not detailed instructions**
 
@@ -287,7 +287,7 @@ Write documents. Establish your voice. Document your thinking patterns. Create s
 
 **3. Ask to see the reasoning**
 
-"How did you come up with that?"  
+"How'd you come up with that?"  
 "Show me your chain of reasoning."  
 "What made you choose this approach?"
 
