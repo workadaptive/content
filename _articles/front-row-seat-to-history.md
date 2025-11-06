@@ -134,8 +134,8 @@ Let's build something real. Your business challenge. Your domain expert. AI + ID
 [Book a session](https://calendly.com/ian-workadaptive/45introdeploy) | [610.763.8430](tel:610-763-8430) | [info@workadaptive.com](mailto:info@workadaptive.com)
 
 **Dive deeper:**
-- [Why IDEs solve AI's memory problem](why-ides-solve-ai-memory-problem.md) - The architecture that makes this work
-- [For data analysts & BI professionals](for-data-analysts-bi-professionals.md) - If you build Power BI reports
-- [B2B Sales & CRM automation examples](b2b-sales-crm-automation.md) - What sales ops teams are building
+- [Why IDEs solve AI's memory problem]({{ site.baseurl }}/articles/why-ides-solve-ai-memory-problem/) - The architecture that makes this work
+- [For data analysts & BI professionals]({{ site.baseurl }}/articles/for-data-analysts-bi-professionals/) - If you build Power BI reports
+- [B2B Sales & CRM automation examples]({{ site.baseurl }}/articles/b2b-sales-crm-automation/) - What sales ops teams are building
 
 *Chester County, Pennsylvania | November 2025*

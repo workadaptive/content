@@ -399,6 +399,6 @@ The difference isn't small. It's the difference between ChatGPT's clever answers
 [Book Strategy Session](https://calendly.com/ian-workadaptive/45introdeploy) | **Call:** [610.763.8430](tel:610-763-8430) | **Email:** [info@workadaptive.com](mailto:info@workadaptive.com)
 
 **See this in action:**
-- [For data analysts & BI professionals](for-data-analysts-bi-professionals.md) - What you can build with Power BI/Excel background
-- [B2B Sales & CRM automation](b2b-sales-crm-automation.md) - What sales ops teams are building
-- [September 2025: When it became viable](front-row-seat-to-history.md) - The timeline story
+- [For data analysts & BI professionals]({{ site.baseurl }}/articles/for-data-analysts-bi-professionals/) - What you can build with Power BI/Excel background
+- [B2B Sales & CRM automation]({{ site.baseurl }}/articles/b2b-sales-crm-automation/) - What sales ops teams are building
+- [September 2025: When it became viable]({{ site.baseurl }}/articles/front-row-seat-to-history/) - The timeline story

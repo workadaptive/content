@@ -13,15 +13,15 @@ October 2025 brought AI reliable enough for business experts to build production
 
 ## What's Possible Now
 
-**Sales Operations:** Lead scoring agent (10+ data sources, custom routing). 3 weeks. 200+ hours/month saved. [Details →](_articles/b2b-sales-crm-automation.md)
+**Sales Operations:** Lead scoring agent (10+ data sources, custom routing). 3 weeks. 200+ hours/month saved. [Details →]({{ site.baseurl }}/articles/b2b-sales-crm-automation/)
 
 **Finance:** Automated month-end close (5 systems). 3 days → 3 hours. 2 weeks.
 
 **Operations:** Real-time margin dashboard. Caught problems 3 weeks earlier. $200K saved. 4 weeks.
 
-**Revenue Ops:** AI pipeline monitoring. Forecast accuracy: 65%→89%. 3 weeks. [For BI pros →](_articles/for-data-analysts-bi-professionals.md)
+**Revenue Ops:** AI pipeline monitoring. Forecast accuracy: 65%→89%. 3 weeks. [For BI pros →]({{ site.baseurl }}/articles/for-data-analysts-bi-professionals/)
 
-[Why this works now →](_articles/front-row-seat-to-history.md) | [The architecture →](_articles/why-ides-solve-ai-memory-problem.md)
+[Why this works now →]({{ site.baseurl }}/articles/front-row-seat-to-history/) | [The architecture →]({{ site.baseurl }}/articles/why-ides-solve-ai-memory-problem/)
 
 ---
 

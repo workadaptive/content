@@ -158,7 +158,7 @@ Let's take a problem you're currently solving in Power BI or Excel and build an 
 [Book a session](https://calendly.com/ian-workadaptive/45introdeploy) | [610.763.8430](tel:610-763-8430) | [info@workadaptive.com](mailto:info@workadaptive.com)
 
 **Related reading:**
-- [Why IDEs solve AI's working memory problem](why-ides-solve-ai-memory-problem.md) - The architecture that makes this possible
-- [B2B Sales & CRM automation examples](b2b-sales-crm-automation.md) - What sales ops teams are building
+- [Why IDEs solve AI's working memory problem]({{ site.baseurl }}/articles/why-ides-solve-ai-memory-problem/) - The architecture that makes this possible
+- [B2B Sales & CRM automation examples]({{ site.baseurl }}/articles/b2b-sales-crm-automation/) - What sales ops teams are building
 
 *Chester County, Pennsylvania | November 2025*

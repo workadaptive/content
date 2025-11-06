@@ -22,7 +22,7 @@ No coding background required.
 
 **Investment:** $8K (2-day) | $15K (4-day)
 
-[Why business experts can build without coding →](_articles/for-data-analysts-bi-professionals.md)
+[Why business experts can build without coding →]({{ site.baseurl }}/articles/for-data-analysts-bi-professionals/)
 
 ---
 
@@ -41,7 +41,7 @@ Build autonomous systems for:
 
 **Investment:** Starting at $12K for focused pilot
 
-[Read detailed examples →](_articles/b2b-sales-crm-automation.md)
+[Read detailed examples →]({{ site.baseurl }}/articles/b2b-sales-crm-automation/)
 
 ---
 
@@ -144,10 +144,10 @@ October 2025: Finally reliable. Finally understands intent. Finally doesn't make
 
 The insight: Business experts don't need to become programmers. AI handles the coding. You provide the business logic.
 
-The architecture that makes it work: IDE + AI creates persistent working memory. Your requirements docs, configurations, tests become the AI's context. Nothing gets lost across iterations. This allows complexity that ChatGPT can't handle. Multi-file projects, system integrations, maintainable solutions. ([Deep dive on IDE + AI architecture →](_articles/why-ides-solve-ai-memory-problem.md))
+The architecture that makes it work: IDE + AI creates persistent working memory. Your requirements docs, configurations, tests become the AI's context. Nothing gets lost across iterations. This allows complexity that ChatGPT can't handle. Multi-file projects, system integrations, maintainable solutions. ([Deep dive on IDE + AI architecture →]({{ site.baseurl }}/articles/why-ides-solve-ai-memory-problem/))
 
 The strategic advantage: Choose models for their strengths. GPT-5 for research and planning (brilliant at synthesis). Claude 4.5 for complex building (exceptional code structure, reliable refactoring).
 
-This isn't developer productivity (making coders faster) or vibe coding (toy examples). This is business experts building business-scale solutions. ([Read the September 2025 story →](_articles/front-row-seat-to-history.md))
+This isn't developer productivity (making coders faster) or vibe coding (toy examples). This is business experts building business-scale solutions. ([Read the September 2025 story →]({{ site.baseurl }}/articles/front-row-seat-to-history/))
 
 *Chester County, Pennsylvania*

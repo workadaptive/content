@@ -411,8 +411,8 @@ Let's build something real together. Your business problem. Scrappy approach. AI
 [Book a session](https://calendly.com/ian-workadaptive/45introdeploy) | [610.763.8430](tel:610-763-8430) | [info@workadaptive.com](mailto:info@workadaptive.com)
 
 **Related reading:**
-- [Why IDEs solve AI's memory problem](why-ides-solve-ai-memory-problem.md) - The architecture that makes this work
-- [September 2025: When it became viable](front-row-seat-to-history.md) - The reliability threshold story
+- [Why IDEs solve AI's memory problem]({{ site.baseurl }}/articles/why-ides-solve-ai-memory-problem/) - The architecture that makes this work
+- [September 2025: When it became viable]({{ site.baseurl }}/articles/front-row-seat-to-history/) - The reliability threshold story
 
 *Chester County, Pennsylvania | November 2025*
 
