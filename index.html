@@ -1,36 +1,52 @@
 ---
 layout: default
-title: WorkAdaptive | Your Business Experts Can Build with AI
+title: WorkAdaptive | AI Innovation Acceleration
 ---
 
 <section class="hero">
     <div class="container">
-        <h1>Your Business Experts Can Build with AI</h1>
-        <p class="tagline">No coding required. Describe what you need. AI builds it.</p>
-        <p>October 2025 brought AI reliable enough for business experts to build production systems. Sales ops, finance, operations—people who understand the work can now automate it.</p>
-        <a href="https://calendly.com/ian-workadaptive/45introdeploy" class="button large">Book a Strategy Session</a>
+        <h1>Build the AI capability you’ll need for the next five years.</h1>
+        <p class="tagline">Automation, business intelligence, and practical enablement—built with your teams.</p>
+        <p class="muted">AI is moving fast. The goal isn’t hype or a “transformation program.” It’s getting real work shipped: automated workflows, cleaner data, better decisions, and a team that can keep building.</p>
+        <div class="hero-actions">
+            <a href="https://calendly.com/ian-workadaptive/45introdeploy" class="button large">Book a Strategy Session</a>
+            <a href="{{ '/articles/' | relative_url }}" class="button secondary">Read the Articles</a>
+        </div>
     </div>
 </section>
 
-<section class="examples">
+<section class="home-cards">
     <div class="container">
-        <h2>What's Possible Now</h2>
-        
-        <p><strong>Sales Operations:</strong> Lead scoring agent (10+ data sources, custom routing). 3 weeks. 200+ hours/month saved. <a href="{{ site.baseurl }}/articles/b2b-sales-crm-automation/">Details →</a></p>
-        
-        <p><strong>Finance:</strong> Automated month-end close (5 systems). 3 days → 3 hours. 2 weeks.</p>
-        
-        <p><strong>Operations:</strong> Real-time margin dashboard. Caught problems 3 weeks earlier. $200K saved. 4 weeks.</p>
-        
-        <p><strong>Revenue Ops:</strong> AI pipeline monitoring. Forecast accuracy: 65%→89%. 3 weeks. <a href="{{ site.baseurl }}/articles/for-data-analysts-bi-professionals/">For BI pros →</a></p>
-        
-        <p><a href="{{ site.baseurl }}/articles/front-row-seat-to-history/">Why this works now →</a> | <a href="{{ site.baseurl }}/articles/why-ides-solve-ai-memory-problem/">The architecture →</a></p>
+        <h2>What we help you ship</h2>
+        <div class="cards">
+            <div class="card">
+                <h3>AI automation</h3>
+                <p>Turn repetitive work into reliable workflows: enrichment, triage, follow-ups, reconciliations, internal tools.</p>
+            </div>
+            <div class="card">
+                <h3>Business intelligence</h3>
+                <p>Get to clean, connected metrics and the few dashboards your leaders actually use—then automate the next step.</p>
+            </div>
+            <div class="card">
+                <h3>Innovation acceleration</h3>
+                <p>Enable your team to build safely and repeatedly. Practical patterns, guardrails, and fast pilots.</p>
+            </div>
+        </div>
+        <p class="center"><a href="{{ '/services.html' | relative_url }}" class="button">Services →</a></p>
     </div>
 </section>
 
 <section class="recent-articles">
     <div class="container">
-        <h2>Recent Articles</h2>
+        <h2>Start here</h2>
+        <p class="center muted">A few short reads that explain what’s changed and what to do next.</p>
+        <div class="start-here">
+            <a class="start-link" href="{{ '/articles/front-row-seat-to-history/' | relative_url }}">Why AI suddenly got reliable (Sept/Oct 2025) →</a>
+            <a class="start-link" href="{{ '/articles/why-ides-solve-ai-memory-problem/' | relative_url }}">Why IDE-based AI works better than chat →</a>
+            <a class="start-link" href="{{ '/articles/b2b-sales-crm-automation/' | relative_url }}">Concrete automation examples (Sales/CRM) →</a>
+        </div>
+
+        <h2 class="tight">Recent Articles</h2>
         <div class="articles-grid">
             {% for article in site.articles limit:6 %}
             <article class="article-card">
@@ -44,21 +60,11 @@ title: WorkAdaptive | Your Business Experts Can Build with AI
     </div>
 </section>
 
-<section class="services-brief">
-    <div class="container">
-        <h2>Services</h2>
-        <p><strong>Workshops:</strong> 2-4 day intensive. Build real solutions for your problems.</p>
-        <p><strong>Sales & CRM Automation:</strong> Lead enrichment, scoring, pipeline intelligence.</p>
-        <p><strong>Executive Enablement:</strong> Build AI capability in existing teams.</p>
-        <a href="{{ site.baseurl }}/services/" class="button">Full services →</a>
-    </div>
-</section>
-
 <section class="cta-final">
     <div class="container">
-        <h2>Get Started</h2>
-        <p>45-minute strategy session. What's possible for your business.</p>
-        <a href="https://calendly.com/ian-workadaptive/45introdeploy" class="button large">Schedule</a>
+        <h2>Get a clear 30-day plan</h2>
+        <p>In 45 minutes, we’ll map 1–2 high-leverage use cases, the data needed, and the fastest path to a pilot your team can own.</p>
+        <a href="https://calendly.com/ian-workadaptive/45introdeploy" class="button large">Book a Session</a>
         <p class="contact"><a href="tel:610-763-8430">610.763.8430</a> | <a href="mailto:info@workadaptive.com">info@workadaptive.com</a></p>
         <p><em>Chester County, Pennsylvania</em></p>
     </div>
